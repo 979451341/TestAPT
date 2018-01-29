@@ -60,3 +60,6 @@ public class MainActivity extends Activity{
 
 
 }
+
+想看如何实现，请看这六篇系列文章
+http://blog.csdn.net/z979451341/article/details/79110118
